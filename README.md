@@ -15,6 +15,13 @@
 
 - ⚡ **Computer History**: The world's first computer virus, known as the "Creeper" virus, was created in the early 1970s. It infected computers running the TENEX operating system and displayed the message, "I'm the creeper, catch me if you can!" 💻🦠
 
+## Skills
+
+- **Languages**: HTML, CSS, JavaScript, TypeScript, Python
+- **Frameworks/Libraries**: GSAP, Node.js, Express.js, React
+- **Databases**: MongoDB
+- **CSS Frameworks**: Tailwind CSS
+
 ## Contact Me
 
 - **Email**: [patildamodar1983@gmail.com](mailto:patildamodar1983@gmail.com)
