@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🌱 **Exploring New Avenues**: I am currently transitioning away from web development to explore new areas in software development.
+- 🌱 **Passionate Web Developer**: I'm focused on web development, continuously learning and exploring new techniques and technologies in the field.
 - 💞️ **Collaborator**: Looking to collaborate on open-source projects, especially those focused on software development.
 - 😄 **Pronouns**: He/Him
 
