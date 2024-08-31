@@ -1,31 +1,30 @@
-# 🌟 Hi, I'm **Damodar Patil**
+# 👋 Hi, I'm **Damodar Patil**
 
-![Welcome Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub+Profile)
+![Welcome Banner](https://via.placeholder.com/1000x300.png?text=Damodar+Patil+-+Web+Developer&bg=0000ff&fg=ffffff)
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 **Passionate Web Developer**: Continuously exploring and mastering new web development technologies.
-- 💻 **Tech Enthusiast**: Always on the lookout for cutting-edge trends in software development.
-- 🌍 **Open Source Advocate**: Love collaborating on projects that make a difference in the developer community.
-- 😄 **Pronouns**: He/Him
+- 🌱 **Web Development Enthusiast**: Always on a journey to discover new tools, frameworks, and best practices.
+- 🌍 **Community Contributor**: Passionate about contributing to open-source projects and helping others in the developer community.
+- 🎯 **Goal-Oriented**: Focused on building solutions that make a difference.
 
 ---
 
-## 🔭 My Interests
+## 🛠️ My Tech Stack
 
-- 💻 Coding: Implementing new techniques, exploring new technologies, and solving complex problems.
-
----
-
-## 💼 My Skills
-
-![Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,nodejs,express,react,mongodb,tailwind)
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,python,nodejs,mongodb,gsap)
 
 ---
 
-## 📫 Contact Me
+## 🌟 Fun Fact
+
+💡 **Did You Know?** The first website ever created is still live at [info.cern.ch](http://info.cern.ch), created by Sir Tim Berners-Lee in 1991. It's a simple page with hypertext links!
+
+---
+
+## 📬 Get in Touch
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patildamodar1983@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damodarpatil)  
@@ -33,6 +32,8 @@
 
 ---
 
-## 🌟 Fun Fact
+## 🎨 GitHub Stats
 
-⚡ **Computer History**: The world's first computer virus, known as the "Creeper" virus, was created in the early 1970s. It infected computers running the TENEX operating system and displayed the message, "I'm the creeper, catch me if you can!" 💻🦠
+![Damodar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Damodar-Patil&show_icons=true&theme=radical)
+
+---
