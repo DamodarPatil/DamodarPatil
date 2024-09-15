@@ -50,12 +50,6 @@ I'm a **Web Developer** with a keen interest in the MERN stack and a passion for
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damodarpatil&layout=compact&theme=radical" />
 </div>
 
-## 📅 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=damodarpatil&theme=radical" alt="damodarpatil's streak" />
-</p>
-
 ## ⚡ Fun Fact
 
 💡 I enjoy connecting tech with real-life solutions, believing that every line of code has the potential to make someone's life easier!
