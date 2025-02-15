@@ -65,7 +65,7 @@
 - 📊 Real-time Analytics Dashboards
 - 📈 GitHub Analytics
 
-## 📊 Streak Stats
+## 📊 Stats
 <div align="center">
   <a href="https://github.com/damodarpatil"> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=damodarpatil&show_icons=true&theme=merko&include_all_commits=true" /> 
