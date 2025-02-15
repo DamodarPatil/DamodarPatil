@@ -82,7 +82,7 @@ security_lab:
   - practice_platforms: [TryHackMe, Hack The Box]
 ```
 
-## 📌 2024 Focus Areas
+## 📌 2025 Focus Areas
 - ✅ Complete Network+ Certification
 - 🔧 Build Home Security Lab
 - 🚀 Contribute to Open Source Security Tools
