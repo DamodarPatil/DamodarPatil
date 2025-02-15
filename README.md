@@ -95,7 +95,6 @@ graph LR
     style B fill:#FF0000
     style C fill:#00FF00
 ```
-
 ## 🎯 Next Targets
 - 🔒 Mastering network security fundamentals
 - 📝 Achieving Network+ certification
